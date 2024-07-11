@@ -46,13 +46,13 @@ async function run() {
     });
 
 
-    app.get('/sport/:id([0-9a-fA-F]{24})', async (req, res) => {
-      // console.log(req.params.id);
-      const id = req.params.id;
-      const query = { _id: new ObjectId(id) }; // Convert the id to ObjectId
-      const result = await sportingCollection.findOne(query);
-      res.send(result);
-    });
+    // app.get('/sport/:id([0-9a-fA-F]{24})', async (req, res) => {
+    //   // console.log(req.params.id);
+    //   const id = req.params.id;
+    //   const query = { _id: new ObjectId(id) }; // Convert the id to ObjectId
+    //   const result = await sportingCollection.findOne(query);
+    //   res.send(result);
+    // });
 
     
     //cart product delete api
@@ -70,18 +70,21 @@ async function run() {
       }
     });
    
-    app.get('/task/:id' , async(req,res)=>{
-      const id = req.params.id;
-      const result = await  sportOrderCollection.findOne({_id: new ObjectId(id)})
-      res.send(result)
-        
-      })
+ 
+      app.get('/sport/:id', async (req, res) => {
+        const id = req.params.id;
+        const query = { _id: new ObjectId(id) };
+        const result = await sportingCollection.findOne(query);
+        res.send(result);
+      });
+
+
 
 
 
       app.delete('/sport/:id' , async(req,res)=>{
         const id  = req.params.id;
-        const result = await sportOrderCollection.deleteOne({_id: new ObjectId(id)})
+        const result = await sportingCollection.deleteOne({_id: new ObjectId(id)})
         res.send(result)
       })
 
@@ -104,16 +107,6 @@ async function run() {
         res.json(result)
     })
 
-
-
-//cart product delete api
-// app.delete('/sport/:id', async (req, res) => {
-//   const id = req.params.id;
-//   const query = { id };
-//   const result = await sportingCollection.deleteOne(query);
-//   console.log(result);
-//   res.send(result);
-// });
 
  
   } finally {
