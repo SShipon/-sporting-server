@@ -1,0 +1,203 @@
+
+[
+  {
+    "name": "MKS BATTING GLOVES",
+    "description": "Step up your game with MKS Batting Gloves, engineered for ultimate comfort and protection at the crease. Crafted with precision and designed for performance, these gloves are essential gear for every cricketer Featuring a lightweight design and split-finger construction, MKS Batting Gloves offer maximum flexibility and dexterity, allowing you to maintain control and precision during every shot. The duo-layer of foam padding provides exceptional impact protection, shielding your hands from the rigors of fast-paced cricket",
+    "category": "Cricket",
+    "stock": 15,
+    "brand": "MSK",
+    "rating": 4.8,
+    "price": 250,
+    "image": "https://i.ibb.co/MfKpynw/cricket-gloves.png",
+    "quantity": 1,
+    "isFeatured": true
+  },
+  {
+    "name": "MKS PLAYER EDITION CRICKET BAT",
+    "description":"Elevate your game with the MKS Limited Edition Cricket Bat, meticulously crafted from the finest Grade 1 English willow. Designed for discerning cricketers, this bat embodies the perfect fusion of style and performance.Featuring 8-10 straight grains, the MKS Limited Edition Bat promises unparalleled strength and durability, ensuring each stroke is met with precision and power. The distinctive Duckbill shape enhances the sweet spot, enabling you to deliver precise and impactful shots across the field.",
+    "category": "Cricket",
+    "stock": 30,
+    "brand": "MSK",
+    "rating": 4.9,
+    "price": 60,
+    "image": "https://i.ibb.co/sRnnXfB/Cricket-Bat.png",
+    "quantity": 1,
+    "isFeatured": true
+  },
+  {
+    "name": "T-LINE TITANIUM CRICKET HELMET",
+    "description": "Advanced badminton racket with rotational generator system. Enhanced power and control for aggressive play. Lightweight design for quick maneuverability. Durable frame construction.",
+    "category": "Cricket",
+    "stock": 20,
+    "brand": "Adidas",
+    "rating": 4.7,
+    "price": 200,
+    "image": "https://i.ibb.co/L1nF1nC/helmet.png",
+    "quantity": 1,
+    "isFeatured": true
+  },
+  {
+    "name": "ADIDAS 22YDS FULL SPIKE CRICKET SHOES",
+    "description": "Lightweight compression shirt with moisture-wicking fabric. Keeps you cool and dry during intense workouts. Four-way stretch material for improved mobility. Comfortable and snug fit.",
+    "category": "Cricket",
+    "stock": 50,
+    "brand": "Nike",
+    "rating": 4.6,
+    "price": 35,
+    "image": "https://i.ibb.co/4p4s331/shoes.png",
+    "quantity": 1,
+    "isFeatured": true
+  },
+  {
+    "name": "READERS COUNTY SUPREME A CRICKET BALL",
+    "description": "Tour-quality golf balls with exceptional distance and control. Soft feel with advanced performance. Optimized for consistent flight and accuracy. Preferred by professional golfers.",
+    "category": "Cricket",
+    "stock": 100,
+    "brand": "Adidas",
+    "rating": 4.9,
+    "price": 50,
+    "image": "https://i.ibb.co/5B1j2fP/ball.png",
+    "quantity": 1,
+    "isFeatured": true
+  },
+
+  {
+    "name": "MOLTEN UEFA EUROPA LEAGUE 1000 OFFICIAL REPLICA FOOTBALL",
+    "description": "The official game ball of the NBA with full-grain leather cover. Superior grip and feel for professional play. Consistent bounce and durability. Approved for competitive use.",
+    "category": "Football",
+    "stock": 12,
+    "brand": "Nike",
+    "rating": 4.8,
+    "price": 150,
+    "image": "https://i.ibb.co/2n6zsNr/football.png",
+    "quantity": 1,
+    "isFeatured": true
+  },
+
+  {
+    "name": "MANCHESTER CITY FC MENS POLO SHIRT",
+    "description": "This classic Manchester City men's polo shirt is an essential for any Citizen. In a selection of colourways, this regular-fit Polo is made from a cotton and polyester blend for a lightweight and comfortable feel. The top features short sleeves, three branded buttons, and a pointed collar for a classic look. The polo shirt is finished with a woven MCFC badge on the left side of the",
+    "category": "Football",
+    "stock": 25,
+    "brand": "Nike",
+    "rating": 4.5,
+    "price": 120,
+    "image": "https://i.ibb.co/kBwzRFk/mens-polo-shirt.png",
+    "quantity": 1,
+    "isFeatured": true
+  },
+
+  {
+    "name": "X CRAZYFAST.3 FIRM GROUND BOOTS",
+    "description": "The game's gone? Nah. It's just waiting for you to change it. Again. And again. Like to keep your rivals guessing? Go wild in adidas X Crazyfast. Keeping you stable at full tilt on dry natural grass, these juniors' football boots sit on a high-speed firm ground outsole..",
+    "category": "Football",
+    "stock": 10,
+    "brand": "Adidas",
+    "rating": 4.7,
+    "price": 600,
+    "image": "https://i.ibb.co/bsxVKFp/football-shos.png",
+    "quantity": 1,
+    "isFeatured": true
+  },
+
+  {
+    "name": "Vibe Black 3-Shin Guards",
+    "description": "The Vibe shin guards have been inspired by the unique flair of the game. Made from our award-winning AVA compound, Vibe strikes a combination of protection and comfort while remaining lightweight - allowing you to focus on your game. Make your mark on the game with Flaxta Vibe",
+    "category": "Football",
+    "stock": 8,
+    "brand": "Nike",
+    "rating": 4.9,
+    "price": 400,
+    "image": "https://i.ibb.co/ssk1y2K/vaib-guards.png",
+    "quantity": 1,
+    "isFeatured": true
+  },
+  {
+    "name": "adidas Adizero Football Cushioned Crew Socks (1-Pair)",
+    "description": "Stability running shoes with GEL cushioning technology. Provides comfort and support for long runs. Breathable mesh upper for ventilation. Durable outsole for traction.",
+    "category": "Football",
+    "stock": 25,
+    "brand": "Adidas",
+    "rating": 4.8,
+    "price": 160,
+    "image": "https://i.ibb.co/xMGmzxx/shoks-2.png",
+    "quantity": 1,
+    "isFeatured": true
+  },
+
+  {
+    "name": "Yonex ASTROX 88 D PRO",
+    "description": "Badminton is a racquet sport played using racquets to hit a shuttlecock across a net. Although it may be played with larger teams, the most common forms of the game are",
+    "category": "Badminton",
+    "stock": 20,
+    "brand": "Yonex",
+    "rating": 4.5,
+    "price": 150,
+    "image": "https://i.ibb.co/XpTpb5d/ASTROX-22.png",
+    "quantity": 1,
+    "isFeatured": true
+  },
+  {
+    "name": "Yonex ASTROX 88 D PRO MAX",
+    "description": "High-speed driver with Flash Face SS20 architecture. Optimized for maximum distance and accuracy. Lightweight and aerodynamic design. Ideal for golfers seeking high performance.",
+    "category": "Badminton",
+    "stock": 7,
+    "brand": "Yonex",
+    "rating": 4.8,
+    "price": 500,
+    "image": "https://i.ibb.co/FHxypQp/shoes.png",
+    "quantity": 1,
+    "isFeatured": true
+  },
+
+  {
+    "name": "MAVIS 2000 Power",
+    "description": "The Yonex Mavis 2000 Yellow is a new release for 2010 with the same structure and design as the Mavis 2000 White 2009 Nylon Shuttlecock by Yonex. The Mavis 2000 line of nylon shuttlecock is  an improvement over its best selling shuttlecock, Mavis 500. With the new ribs on its skirt design, the Yonex Mavis 2000 Nylon Shuttlecock offers better spin in its flight and trajectory and little better durability. It has the closest performance to feather shuttlecock beating the Mavis 500 in flight and feel.",
+    "category": "Badminton",
+    "stock": 18,
+    "brand": "Yonex",
+    "rating": 4.6,
+    "price": 130,
+    "image": "https://i.ibb.co/SNQXSrG/MAVIS-20000-Power.png",
+    "quantity": 1,
+    "isFeatured": true
+  },
+  {
+    "name": "MEN’S SHORTS PANT",
+    "description": "Balanced baseball bat with Paraflex Plus Composite Barrel. Offers powerful hits and superior control. Lightweight and durable construction. Perfect for competitive play.",
+    "category": "Badminton",
+    "stock": 10,
+    "brand": "Yonex",
+    "rating": 4.9,
+    "price": 450,
+    "image": "https://i.ibb.co/b6r52Ny/mens-short.png",
+    "quantity": 1,
+    "isFeatured": true
+  },
+  {
+    "name": "POWER CUSHION SHOES  Z WIDE",
+    "description": "Aggressive trail running shoes with exceptional grip and fit. Designed for rugged terrains and challenging trails. Comfortable and durable for long runs. Lightweight and breathable.",
+    "category": "Badminton",
+    "stock": 15,
+    "brand": "Yonex",
+    "rating": 4.7,
+    "price": 130,
+    "image": "https://i.ibb.co/FHxypQp/shoes.png",
+    "quantity": 1,
+    "isFeatured": true
+  },
+  {
+    "name": "BADMINTON NET LOCAL",
+    "description": "Stability running shoes with GEL cushioning technology. Provides comfort and support for long runs. Breathable mesh upper for ventilation. Durable outsole for traction.",
+    "category": "Badminton",
+    "stock": 25,
+    "brand": "Adidas",
+    "rating": 4.8,
+    "price": 160,
+    "image": "https://i.ibb.co/8bq5bkW/net.png",
+    "quantity": 1,
+    "isFeatured": true
+  }
+]
+
+
